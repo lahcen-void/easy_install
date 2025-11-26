@@ -4,7 +4,7 @@
   "description": "Provides UI to delete configuration while uninstalling or reinstalling the modules",
   "homepage": "https://www.drupal.org/project/easy_install",
   "require": {
-    "drupal/core": "^9 || ^10"
+    "drupal/core": "^9 || ^10 || ^11"
   },
   "minimum-stability": "dev"
 }
